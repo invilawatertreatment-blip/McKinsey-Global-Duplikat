@@ -1,1 +1,2 @@
-# McKinsey-Global-.
+# McKinsey-Global-
+.
